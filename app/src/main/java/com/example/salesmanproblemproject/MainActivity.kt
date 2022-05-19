@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         print("Kerim ponovo ide frizbi")
         print("Sabah")
         print("Kerim poslije sabaha!")
+        print("Tala poslije sabaha")
     }
 }
