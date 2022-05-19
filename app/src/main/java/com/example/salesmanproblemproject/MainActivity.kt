@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         print("Sabah")
         print("Kerim poslije sabaha!")
         print("Tala poslije sabaha")
+        print("Samjke 22 boda")
     }
 }
